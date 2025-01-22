@@ -17,7 +17,7 @@ This project helps to manage project tasks.
 1. Clone project
     - git clone https://github.com/subarna00/simple-task-management.git
 
-2. Open code editor and run commands
+2. Open project in code editor and run commands
     - composer install
     - npm install
     - npm run dev
