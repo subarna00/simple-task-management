@@ -1,19 +1,19 @@
-## Task Management
+# Task Management
 ------------------------------------------
 This project helps to manage project tasks.
 
-# System Requirements
+## System Requirements
     - PHP 8.3
     - Node v23.5.0
     - composer
     - mysql
 
-# Technologies used
+## Technologies used
     - Laravel 11
     - Tailwindcss
     - jquery
 
-# Project Setup
+## Project Setup
 1. Clone project
     - git clone https://github.com/subarna00/simple-task-management.git
 
